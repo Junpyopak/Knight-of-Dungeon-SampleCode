@@ -43,5 +43,10 @@ Unity 기반 Dungeon RPG 게임에서 자주 사용되는 핵심 Gameplay 시스
 
 ### 🎥 시연 영상
 
-[⏱ 1:25 ~ 2:02](https://www.youtube.com/watch?v=X-CGv4ttQig)
+(https://www.youtube.com/watch?v=X-CGv4ttQig)
+1:25 ~ 2:02 인벤토리 시스템 & 장비 강화
+2:55 ~ 3:10 미니맵 ui
+3:12 ~ 3:27  몬스터 FSM AI & 레벨업
+3:50 ~ 4:20  플레이어 시점 고정
+5:54 ~ 6:50 보스 컷신 및 보스 패턴
 
