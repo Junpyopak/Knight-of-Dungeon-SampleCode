@@ -41,7 +41,9 @@ Unity 기반 Dungeon RPG 게임에서 자주 사용되는 핵심 Gameplay 시스
 
 
 ### 🎥 시연 영상
-
+<br><br>
+https://youtu.be/X-CGv4ttQig?si=h4CSecEWagF99DxM
+<br><br>
 00:00 인벤토리 시스템<br>
 00:35 장비 강화<br>
 01:10 몬스터 FSM AI<br>
