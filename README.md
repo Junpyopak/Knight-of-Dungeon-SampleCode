@@ -9,12 +9,12 @@ Unity 기반 Dungeon RPG 게임에서 자주 사용되는 핵심 Gameplay 시스
 
 | 시스템 | 설명 | 폴더 경로 |
 |---|---|---|
-| 인벤토리 시스템 | ScriptableObject 기반 아이템 데이터 & UI Drag&Drop | `/InventorySystem` |
-| 강화 시스템 | 확률 기반 장비 강화 + 연출 | `/EquipmentUpgradeSystem` |
+| 인벤토리 시스템 | ScriptableObject 기반 아이템 데이터 & UI Drag&Drop | `/Inventory` |
+| 강화 시스템 | 확률 기반 장비 강화 + 연출 | `/Upgrade` |
 | 몬스터 FSM AI | Idle / Chase / Attack / Die 상태 기반 AI | `/EnemyFSM` |
-| 아이템 드랍 시스템 | 몬스터별 드랍 테이블 기반 랜덤 드랍 처리 | `/DropAndLootSystem` |
-| Slash 이펙트 | Mesh Trail + Shader 기반 휘둘림 궤적 | `/WeaponSlashEffect` |
-| 보스 컷씬 카메라 | Cinemachine Virtual Camera 전환 연출 | `/CinemachineBossCamera` |
+| 아이템 시스템 | 아이템별 아이템명,타입,프리팹 통합 데이터 구조 | `/Inventory` |
+| 플레이어 시점 고정 |가까운 적의 거리를 계산하여 시점 고정| `/Player` |
+| 오브젝트 폴링 | 몬스터 리스폰 및 리스폰 위치 조정 | `/Pooling` |
 
 ## 🛠️ 사용 기술 (Tech Stack)
 
