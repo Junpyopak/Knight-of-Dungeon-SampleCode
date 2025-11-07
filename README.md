@@ -39,7 +39,6 @@ Unity 기반 Dungeon RPG 게임에서 자주 사용되는 핵심 Gameplay 시스
 
 ---
 
-## 📷 데모 / 영상
 
 ### 🎥 시연 영상
 
